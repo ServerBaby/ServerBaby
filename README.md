@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my repository "Weather App".
-- 🌱 I’m currently learning everything I can about ElasticSearch and Kibana.
+- 🔭 I’m currently working on my repository "Creating a STIX 2.1 Bundle".
+- 🌱 I’m currently learning everything I can about Python.
 - 👯 I’m looking to collaborate on anything that I find interesting and useful to the world.
 - 🤔 I’m looking for help with advice on what to learn next that is interesting in programming.
 - ⚡ Fun fact: I have many university degrees but none are in computer science.
