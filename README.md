@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my repository "Creating a STIX 2.1 Bundle".
+- 🔭 I’m currently working on my repository "Stix_Bundle_Creator".
 - 🌱 I’m currently learning everything I can about Python.
 - 👯 I’m looking to collaborate on anything that I find interesting and useful to the world.
 - 🤔 I’m looking for help with advice on what to learn next that is interesting in programming.
