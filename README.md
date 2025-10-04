@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my repository "Felid" - An app for writers to track continuity in their writing.
+- 🔭 I’m currently working on my repository "Filid" - An app for writers to track continuity in their writing.
 - 🌱 I’m currently learning everything I can about Python.
 - 👯 I’m looking to collaborate on anything that I find interesting and useful to the world.
 - 🤔 I’m looking for help with advice on what to learn next that is interesting in programming.
